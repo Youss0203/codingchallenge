@@ -1,0 +1,60 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 1450px;
+}
+.immagine{ text-align: center;}
+.logo{
+  width: 150px;
+  margin-top: 100px;
+}
+ .subtitle{
+   color: limegreen;
+   text-align: center;
+ }
+.barra{
+  text-align: center;
+  background: limegreen;
+  padding: 10px;
+  margin-left: 300px;
+  margin-right:300px;
+
+}
+.box{
+  border:  1px solid;
+  text-align: center;
+  padding:2px;
+
+}
+.row{
+  margin-left: 300px;
+  margin-top: 20px;
+  font-size:25px;
+  margin-top: 50px;
+  color:white;
+
+
+}
+.paragrafo{
+  font-size:15px;
+  color:white;
+
+}
+.bar{
+  background :rgb(255, 208, 9);
+  margin-right:700px;
+    height:20;
+        border-radius:5px;
+}
+
+.barr{
+  background :limegreen;
+  margin-right:500px;
+    height:20;
+        border-radius:5px;
+}
+.br{
+  background :red;
+  margin-right:900px;
+    height:20;
+        border-radius:5px;
+}
